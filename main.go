@@ -12,7 +12,7 @@ import (
 
 func main() {
 	s := server.NewMCPServer(
-		"Axon",
+		"axon-server",
 		"0.0.1",
 	)
 
