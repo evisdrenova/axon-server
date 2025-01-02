@@ -12,7 +12,7 @@ A go implementation of a client/server that takes in an Open API spec and can re
 
 Build the project using:
 
-`go build -o ./bin/axon ./cmd/axon`
+`go build -o ./bin/ ./cmd/`
 
 Make sure that your `claude_desktop_config.json` file is correctly configured. Here is what mine looks like:
 
